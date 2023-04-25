@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_clinica_medica/static/css/main.74ca05bd.css",
-    "main.js": "/react_clinica_medica/static/js/main.2b7f6ee8.js",
+    "main.css": "/react_clinica_medica/static/css/main.22294bc6.css",
+    "main.js": "/react_clinica_medica/static/js/main.1aed1360.js",
     "static/js/787.28cb0dcd.chunk.js": "/react_clinica_medica/static/js/787.28cb0dcd.chunk.js",
     "static/media/presario.png": "/react_clinica_medica/static/media/presario.51f1296f13faaf14eb94.png",
     "static/media/doctor+pediatrician+icon-svg": "/react_clinica_medica/static/media/doctor+pediatrician+icon-1320185104387356300.e5c3df9d49a44e754636989e09051164.svg",
     "index.html": "/react_clinica_medica/index.html",
-    "main.74ca05bd.css.map": "/react_clinica_medica/static/css/main.74ca05bd.css.map",
-    "main.2b7f6ee8.js.map": "/react_clinica_medica/static/js/main.2b7f6ee8.js.map",
+    "main.22294bc6.css.map": "/react_clinica_medica/static/css/main.22294bc6.css.map",
+    "main.1aed1360.js.map": "/react_clinica_medica/static/js/main.1aed1360.js.map",
     "787.28cb0dcd.chunk.js.map": "/react_clinica_medica/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74ca05bd.css",
-    "static/js/main.2b7f6ee8.js"
+    "static/css/main.22294bc6.css",
+    "static/js/main.1aed1360.js"
   ]
 }
